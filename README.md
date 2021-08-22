@@ -1,16 +1,76 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I am Alan Huang</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yyy855029&label=Profile%20views&color=0e75b6&style=flat" alt="yyy855029" /> </p>
 
-<!--
-**yyy855029/yyy855029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I got a master degree in **Money and Banking (Program of Financial Engineering)** from **National Chengchi University**.
+- 🔭 My research interests are with **Financial Engineering** and **Algorithmic Trading**.
+- 📫 How to reach me : **yyy855029@gmail.com**
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Currently Learning</h3>
+
+- **Programming Languages**
+<table>
+<tbody>
+<tr>
+<td align="center" width="33%">
+<a href="https://www.python.org" target="_blank"> <img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </a>
+</td>
+
+<td align="center" width="33%">
+<a href="https://www.r-project.org" target="_blank"> <img height=80px src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"> </a>
+</td> 
+ 
+<td align="center" width="33%">
+<a href="https://docs.microsoft.com/en-us/office/vba/api/overview" target="_blank"> <img height=80px src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg"> </a>
+</td>
+</tr>
+
+</tbody>
+</table>
+
+- **Data Science**
+<table>
+<tbody>
+<tr>
+<td align="center" width="5%">
+<a href="https://numpy.org" target="_blank"> <img height=80px src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg"> </a>
+</td> 
+  
+<td align="center" width="5%">
+<a href="https://pandas.pydata.org" target="_blank"> <img height=80px src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg"> </a>
+</td> 
+  
+<td align="center" width="5%">
+<a href="https://matplotlib.org" target="_blank"> <img height=60px src="https://raw.githubusercontent.com/valohai/ml-logos/master/matplotlib.svg"> </a>
+</td>
+
+<td align="center" width="5%">
+<a href="https://www.scipy.org" target="_blank"> <img height=80px src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </a>
+</td>
+  
+<td align="center" width="5%">
+<a href="https://scikit-learn.org/stable" target="_blank"> <img height=80px src="https://raw.githubusercontent.com/valohai/ml-logos/master/scikit-learn.svg"> </a>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="5%">
+<a href="https://keras.io" target="_blank"> <img height=80px src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras-text.svg"> </a>
+</td> 
+</tr>
+ 
+</tbody>
+</table>
+
+<hr>
+
+<h3 align="left">My GitHub Stats</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yyy855029&show_icons=true&locale=en" alt="yyy855029" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yyy855029" alt="yyy855029" /></a> </p>
+
+<hr>
+
+<h3 align="left">My GitHub Highlights</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yyy855029&show_icons=true&locale=en&layout=compact" alt="yyy855029" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yyy855029&" alt="yyy855029" /></p>
