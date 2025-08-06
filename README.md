@@ -37,7 +37,3 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yyy855029" alt="yyy855029" /></a> </p>
 
 <hr>
-
-<h3 align="left">My GitHub Highlights</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yyy855029&show_icons=true&locale=en&layout=compact" alt="yyy855029" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yyy855029&" alt="yyy855029" /></p>
