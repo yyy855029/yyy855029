@@ -29,39 +29,6 @@
 </tbody>
 </table>
 
-- **Data Science**
-<table>
-<tbody>
-<tr>
-<td align="center" width="5%">
-<a href="https://numpy.org" target="_blank"> <img height=80px src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg"> </a>
-</td> 
-  
-<td align="center" width="5%">
-<a href="https://pandas.pydata.org" target="_blank"> <img height=80px src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg"> </a>
-</td> 
-  
-<td align="center" width="5%">
-<a href="https://matplotlib.org" target="_blank"> <img height=60px src="https://raw.githubusercontent.com/valohai/ml-logos/master/matplotlib.svg"> </a>
-</td>
-
-<td align="center" width="5%">
-<a href="https://www.scipy.org" target="_blank"> <img height=80px src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </a>
-</td>
-  
-<td align="center" width="5%">
-<a href="https://scikit-learn.org/stable" target="_blank"> <img height=80px src="https://raw.githubusercontent.com/valohai/ml-logos/master/scikit-learn.svg"> </a>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="5%">
-<a href="https://keras.io" target="_blank"> <img height=80px src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras-text.svg"> </a>
-</td> 
-</tr>
- 
-</tbody>
-</table>
 
 <hr>
 
